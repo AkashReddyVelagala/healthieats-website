@@ -58,21 +58,20 @@ Clear, structured pricing plans with call-to-action buttons to subscribe.
 
 ## 📁 Folder Structure
 
-Project - HealthiEats/
-│
+```
+HealthiEats/
 ├── css/
-│ ├── style.css
-│ |── general.css
-| └── queries.css
-|
+│   ├── style.css
+│   ├── general.css
+│   └── queries.css
 ├── js/
-│ └── script.js
-|
+│   └── script.js
 ├── img/
-|
+│   └── [image assets]
 ├── index.html
-├── mainfest.webmanifest
-├── ReadMe.md
+├── manifest.webmanifest
+└── README.md
+```
 
 ## 📌 Note
 
